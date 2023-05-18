@@ -1,0 +1,5 @@
+RegisterServerEvent('blacklistAceCheck')
+AddEventHandler('blacklistAceCheck', function(vehAce, deleteVeh)
+    local aceCheck = IsPlayerAceAllowed(source, vehAce)
+    TriggerClientEvent('blacklistAceReturn', source, aceCheck, deleteVeh)
+end)
