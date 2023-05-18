@@ -4,7 +4,7 @@ This blacklist is a little different than most, instead of outright just deletin
 
 There is an option to set individual vehicles to delete for the more important vehicles
 
-There is an option to set ace permissions for vehicles individual, this will bypass the vehicle checks and allow the player to use it
+There is an option to set ace permissions for vehicles individually, this will bypass the vehicle checks and allow the player to use it
 
 
 Configuration Settings
